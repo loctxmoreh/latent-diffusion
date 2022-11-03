@@ -1,0 +1,9 @@
+__pycache__/
+logs/
+*.swp
+tags
+
+# packages installed by git repo
+src/
+*.egg-info/
+taming/
