@@ -2,6 +2,7 @@ __pycache__/
 logs/
 *.swp
 tags
+*.ckpt
 
 # packages installed by git repo
 src/
